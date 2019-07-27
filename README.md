@@ -8,7 +8,7 @@ Using Python Pandas and apply it to new situations. For this assignment, you'll 
 
 ## Option 1: Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.jpg)
+![Fantasy](HerosOfPymoli/Images/Fantasy.jpg)
 
 Using Python Pandas analyze the data for their most recent fantasy game Heroes of Pymoli.
 
