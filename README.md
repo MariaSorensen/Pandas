@@ -1,14 +1,9 @@
 # Pandas, Pandas, Pandas
 
-## Background
 
-The data dive continues!
+## Heroes of Pymoli
 
-Using Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
-
-## Option 1: Heroes of Pymoli
-
-![Fantasy](HerosOfPymoli/Images/Fantasy.jpg)
+![Fantasy](HeroesOfPymoli/Images/Fantasy.jpg)
 
 Using Python Pandas analyze the data for their most recent fantasy game Heroes of Pymoli.
 
