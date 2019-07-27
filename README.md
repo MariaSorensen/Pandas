@@ -1,7 +1,7 @@
 # Pandas
-Unit 4 | Assignment Heroes of Pymoli
+Heroes of Pymoli
 
-Your final report should include each of the following:
+This report includes each of the following:
 
 Player Count
   
@@ -67,13 +67,3 @@ Most Profitable Items
     	-Purchase Count
     	-Item Price
     	-Total Purchase Value
-
-As final considerations:
-  
-	*You must use the Pandas Library and the Jupyter Notebook.
-  
-	*You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-  
-	*You must include a written description of three observable trends based on the data.
-  
-	*See Example Solution for a reference on expected format.
